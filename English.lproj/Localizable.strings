@@ -1,0 +1,37 @@
+/* No comment provided by engineer. */
+"cancel" = "cancel";
+
+/* No comment provided by engineer. */
+"connecting time: %2.0fs" = "connecting time: %2.0fs";
+
+/* No comment provided by engineer. */
+"connect" = "connect";
+
+/* No comment provided by engineer. */
+"connect failed" = "connect failed";
+
+/* No comment provided by engineer. */
+"connected" = "connected";
+
+/* No comment provided by engineer. */
+"connecting..." = "connecting...";
+
+/* No comment provided by engineer. */
+"disconnect" = "disconnect";
+
+/* No comment provided by engineer. */
+"Usable ppp service not found." = "Usable ppp service not found.";
+
+/* No comment provided by engineer. */
+"not connected" = "not connected";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"A special ppp dialup program for special people.\n\nFirst two characters \"\\r\\n\" of real name not displayed." = "A special ppp dialup program for special people.\n\nFirst two characters \"\\r\\n\" of real name not displayed.";
+
+/* No comment provided by engineer. */
+"ppp service not available" = "ppp service not available";
+
+"updateLabel" = "A new version find.";

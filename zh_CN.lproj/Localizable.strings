@@ -1,0 +1,36 @@
+/* No comment provided by engineer. */
+"cancel" = "取消";
+
+/* No comment provided by engineer. */
+"connecting time: %2.0fs" = "连接时间: %2.0f秒";
+
+/* No comment provided by engineer. */
+"connect" = "连接";
+
+/* No comment provided by engineer. */
+"connect failed" = "连接失败";
+
+/* No comment provided by engineer. */
+"connected" = "已连接";
+
+/* No comment provided by engineer. */
+"connecting..." = "连接中...";
+
+/* No comment provided by engineer. */
+"disconnect" = "断开";
+
+/* No comment provided by engineer. */
+"Usable ppp service not found." = "没有找到可用的PPP服务.";
+
+/* No comment provided by engineer. */
+"not connected" = "未连接";
+
+/* No comment provided by engineer. */
+"OK" = "确定";
+
+/* No comment provided by engineer. */
+"A special ppp dialup program for special people.\n\nFirst two characters \"\\r\\n\" of real name not displayed." = "专用PPP拨号程序.\n\n真实用户名没有显示前两个字符\"\\r\\n\".";
+
+/* No comment provided by engineer. */
+"ppp service not available" = "没有找到可用的PPP服务";
+"updateLabel" = "发现一个新版本.";
